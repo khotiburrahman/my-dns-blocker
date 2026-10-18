@@ -1,1 +1,5 @@
-#
+# Sumber blocklist (satu URL per baris)
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt
+https://raw.githubusercontent.com/khotiburrahman/oisd_big_clash/refs/heads/main/rules.txt
