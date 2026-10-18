@@ -1,1 +1,8 @@
-#
+{
+  "name": "my-dns-blocker",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-filter.js"
+  }
+}
