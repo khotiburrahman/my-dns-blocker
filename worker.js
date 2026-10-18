@@ -3,7 +3,7 @@
 import { BloomFilter } from './scripts/bloom-filter.js';
 
 // ⚠️ GANTI USER/REPO dengan akun GitHub Anda
-const FILTER_URL = 'https://cdn.jsdelivr.net/gh/khotiburrahman/my-dns-blocker@latest/filter.bin';
+const FILTER_URL = 'https://github.com/khotiburrahman/my-dns-blocker/releases/latest/download/filter.bin';
 const UPSTREAM = 'https://cloudflare-dns.com/dns-query';
 
 // Promise-level cache: filter hanya dimuat sekali per isolate
